@@ -1,1 +1,1 @@
-This is ALex Carrera's first Git project!!
+This is Alex Carrera's first Git project!!
